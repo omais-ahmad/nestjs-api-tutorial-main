@@ -3,7 +3,7 @@
 
 ### Run the API in development mode
 ```javascript
-yarn // install
-yarn db:dev:restart // start postgres in docker and push migrations
-yarn start:dev // start api in dev mode
+npm // install
+npm db:dev:restart // start postgres in docker and push migrations
+npm start:dev // start api in dev mode
 ```
